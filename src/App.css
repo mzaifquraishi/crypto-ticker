@@ -25,6 +25,12 @@
 .App-link {
   color: rgb(112, 76, 182);
 }
+.col{
+  width: 150px;
+}
+.text-center{
+  text-align: center;
+}
 
 @keyframes App-logo-float {
   0% {
