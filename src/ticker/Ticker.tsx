@@ -41,3 +41,4 @@ const mapStateToProps = (state: any) => {
   };
 };
 export default connect(mapStateToProps)(Ticker);
+

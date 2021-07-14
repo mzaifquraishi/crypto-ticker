@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <header className="container">
         <div className="jumbotron">
-          <h1 className="display-4">Ticker</h1></div>
+          <h1 className="display-4">Crypto Ticker</h1></div>
         <Ticker />
       </header>
     </div>
